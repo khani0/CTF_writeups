@@ -6,9 +6,9 @@
 
 Взглянем на сам сайт.
 
-![Untitled](BeepBoop_Blog_Img/Untitled%1.png)
+![Untitled](BeepBoop_Blog_Img/Untitled1.png)
 
-![Untitled](BeepBoop_Blog_Img/Untitled%2.png)
+![Untitled](BeepBoop_Blog_Img/Untitled2.png)
 
 Сайт представляет собой одностраничник с множеством записей от роботов, как указано в задании, флаг скорее всего в одной из них. Но такое количество блогов перебирать в ручную, кажется невозможным.
 
