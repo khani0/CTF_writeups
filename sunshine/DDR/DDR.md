@@ -43,7 +43,7 @@ print(con.recv())
 
 Скрипт будет проходить тесты, пока не побьет рекорд в 225, после чего сервер вышлет флаг.
 
-![Untitled](DDR/Untitled3.png)
+![Untitled](DDR_Img/Untitled3.png)
 
 ```python
 b'\rYOU WIN!!!\r\nYour prize is sun{d0_r0b0t5_kn0w_h0w_t0_d4nc3}\r\n'
